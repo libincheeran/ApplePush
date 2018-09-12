@@ -1,4 +1,4 @@
-package com.ancestry.oops.coinshot.service.apple;
+package .service.apple;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -25,7 +25,7 @@ public class TestApplePush
 {
 
     private static String file
-            = "/Users/lcheeran/IdeaProjects/oops-coinshot/coinshot-app/src/main/resources/TreeToGoProdAPSCertificates.p12";
+            = "/Users/lcheeran/IdeaProjects/src/main/resources/TreeToGoProdAPSCertificates.p12";
     private static String pwd = "MiniM@c11";
 
     public static void main(String[] args)
